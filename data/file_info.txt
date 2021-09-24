@@ -1,0 +1,19 @@
+LAB10: Glycohemoglobin lab
+LAB: Standard Bio-Chemistry Profile lab 
+LAB25: Complete Blood Count with 5-part Differential - Whole Blood lab
+TCHOL: Total Cholesterol lab
+
+
+URDACT: Albumin creatinine ratio (mg/g)
+PHAFSTHR.x: Fasting hours in fasting questionnaire (lab)
+LBXBGM	Mercury, methyl (ug/L)	Mercury, methyl (ug/L)	Mercury - Inorganic, Ethyl & Methyl - Blood (IHgEM_G)
+WTSH2YR.x	Blood metal weights	Blood metal weights	Mercury: Inorganic, Ethyl and Methyl - Blood (IHGEM_H)
+LBXIHG	Mercury, Inorganic (ug/L)	Mercury, Inorganic (ug/L)	Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries (LAB06)
+LBXSCK	Creatine Phosphokinase(CPK) (IU/L)	Creatine Phosphokinase(CPK) (IU/L)	Standard Biochemistry Profile (BIOPRO_G)	2011-2012 Laboratory
+LBDB12 B12
+
+['LBXGH', 'DIQ050', 'LBDBANO', 'LBDEONO', 'LBDMONO', 'LBXSGL',
+'LBXSOSSI', 'LBXSTB', 'LBXSAL', 'LBXTC',
+'LBXSNASI', 'LBXSC3SI', 'LBXIHG', 'LBXSATSI', 'LBXRDW',
+'LBXSTR', 'LBXSCH', 'LBDNENO', 'LBXSCR', 'LBDLYMNO',
+'LBXRBCSI', 'LBXSKSI', 'LBXLYPCT', 'LBXSUA']

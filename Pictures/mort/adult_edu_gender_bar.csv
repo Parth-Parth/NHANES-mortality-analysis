@@ -1,0 +1,8 @@
+,male,female,adult_edu_level
+0,3462,3376, < 9th Grade
+1,4101,4201,9-12th Grade (no diploma)
+2,6279,6454,High School Grad/GED or Equivalent
+3,6837,8529,College or AA degree
+4,5743,5979,College Graduate or above
+5,16,21,Refused
+6,32,45,Unknown

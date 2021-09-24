@@ -1,0 +1,16 @@
+Steps:
+
+- Read data from csv
+- Remove irrelevant columns.
+- Encode discrete columns using one-hot encoding.
+- Remove redundant features by calculating correlation between each of them.
+- Oversample target variable if heavily imbalanced.
+- Calculate feature importance score for each column.
+- Select top 30 features having highest importance scores.
+- Keep only above selected features.
+- Divide data into train and test sets.
+- Train logistic regression model to predict the target variable.
+- Check the performance of the trained model on test data.
+
+
+First of all, data is read from the file. After printing the names of all the columns, some data columns might be irrelavant pertaining to the problem statement at hand. Such columns needs to be eradicated to simplify the data preprocessing pipeline. Data comes into two types. Firstly, continuous data like house price, blood pressure, protein levels, etc. Categorical data like gender (either male or female), location, and so on. Such column contains only a limited number of unique values. After deleting nonessential columns, categorical columns are needed to be one hot encoded to further feed it to the predictive analytics system. To one-hot encode those, we need to detect it. Number of unique entries is calculated for each column, depending on the decided threshold, a column is declared discrete if number of unique points are less than the threshold else it's taken as a continuous data column. Once determined, those columns are one-hot encoded. After doing such still our data is not ready for predictive modelling stage. There might be redundant columns in the data, which needs to be removed. For example, tumor size maybe measured in centimeters and inches, both having different column name. There could be multiple of them, only one of those will be kept remaining columns needs to be eliminated. Correlation matrix showing correlation between coolumns, extreme values of correlation shows linear relationship between two features, hence only one of them should be kept. Now, there is no redundancy in our data. Here, binary classification is performed. And classification data is prone to be imbalanced in terms of the target variable. In that case, minory class will be oversampled to make the data balanced. After this step, further filtering of features is performed to reduce the number of input features. A feature importance score is calculated for each column, then only top 30 features having highest scores are selected. After this step, modelling process is performed. Data is divided into training and test sets at random. A logistic regression model is trained on training data. After training, the same is tested on test data to evaluate it's performance on unseen data. A set of metrics are calculated to judge the model's accuracy on test data.

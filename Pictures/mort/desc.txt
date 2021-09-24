@@ -1,0 +1,50 @@
+-------------------------------------
+age_bar.png
+
+X-axis represents various age-groups and Y-axis represents total mortality (only people who had either coronary heart disease, diabetes or alcohol addiction) depending on the age group. In overview, in majority of the age groups, deaths caused by alcohol are always higher compared to Diabetes and coronary heart disease. Also, number of deaths due to these three also increases with age. Deaths due to CHD is relatable with older people (60-69, 70-79 and 80-89). 
+
+-------------------------------------
+age_bar.png
+
+X-axis represents gender and Y-axis represents total mortality (only people who had either coronary heart disease, diabetes or alcohol addiction) depending on the gender. In overview, number of males who died are around 2.5 times that of number of deceased females. In males, deaths due to alcohol addiction is more compared to other two. In females, deaths due to diabetes is higher compared to other two.
+
+-------------------------------------
+race_bar.png
+
+X-axis represents ethnicity and Y-axis represents total mortality (only people who had either coronary heart disease, diabetes or alcohol addiction) depending on the race. In overview, number of deaths in non hispanic white ethnicity was highest compared to other shown races. Inside which, proportions of aforementioned medical complications are nearly equal. Other than this ethnicity, number of deaths due to CHD is lot lesser compared to other two diseases. 
+
+-------------------------------------
+hh_size_bar.png
+
+X-axis represents household size and Y-axis represents total mortality (only people who had either coronary heart disease, diabetes or alcohol addiction) depending on the race. In overview, number of deaths due to diabetes and alcohol addiction are nearly similar in each household size. Also, highest number of deaths were recorded in second category (people belonging to household of size 2). After that, as household size increased, number of deaths decreased.
+
+-------------------------------------
+adult_edu_bar.png
+
+X-axis represents level of adult education and Y-axis represents total mortality (only people who had either coronary heart disease, diabetes or alcohol addiction) corresponding to x-axis value. In overview, number of diceased who only studied till 9th grade is highest. As level of education increased the number of deaths decreased. In nearly each category on x-axis, number of deceased who had alcohol addiction is highest and number of deceased who had CHD is lowest.
+
+-------------------------------------
+pir_bar.png (Higher PIR means higher income. Left to right poverty decreases and wealthiness increases)
+
+X-axis represents poverty income ratio and Y-axis represents total mortality (only people who had either coronary heart disease, diabetes or alcohol addiction) depending on the PIR level. In overview, number of diceased whose PIR was 1 is highest and number of deceased whose PIR was 0 is lowest. As PIR increased from 1, number of deaths decreased. In each level on x-axis, number of deceased who had alcohol addiction is highest and number of deceased who had CHD is lowest.
+
+-------------------------------------
+cases_yearwise_line.png
+
+X-axis represents time and Y-axis represents total mortality. There are three lines, each representing three different medical complications namely diabetes, coronary heart disease and alcohol addiction. In overview, in all years deaths due to CHD is lowest compared to other two. Also, deaths due to Diabetes roughly increased with time. On the other hand, mortality due to alcohol addiction is somewhat constant at 600 from 1999-2006. After which it started increasing and reached 875 in 2009-2010, then it dipped to 650 in 2011-2012.
+
+
+-------------------------------------
+work_sbp_box.png (In years)
+
+This visual shows a set of box-plots of systolic blood pressure depending on the gender and amount of work. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence values. In overview, there is no difference in quantile stats depending on the amount of physical activity for a specific gender. In general, males have higher systolic blood pressure compared to females corresponding to a specific amount of physical work.  
+
+-------------------------------------
+work_dbp_box.png (In years)
+
+This visual shows a set of box-plots of diastolic blood pressure depending on the gender and amount of work. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence values. In overview, there is no difference in quantile stats depending on the amount of physical activity for a specific gender. In general, males have higher diastolic blood pressure compared to females corresponding to a specific amount of physical work.
+
+-------------------------------------
+uric_gender_bar.png
+
+X-axis represents gender and Y-axis represents number of people. In overview, there are more males (6251) whose uric acid levels are outside the desired range compared to female participants (4685). In general, most of the people's uric acid levels are normal.

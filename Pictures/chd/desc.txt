@@ -1,0 +1,340 @@
+white_blood_cells_hist.png (In 1000 cells/uL)
+
+This graph gives shows data distribution of white blood cells, such is shown for people who had coronary heart disease and for others who didn't. Majority of people who had CHD (Blue colour) tended to have lower levels of white blood cells (< 15). On the other hand, non infected participants showed somewhat uniform pattern till reaching 35, afterwards it fell to 5% and declined further.
+
+-------------------------------------
+white_blood_cells_box.png
+
+This visual is a box-plot of white blood cell count. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. For both groups, aforementioned values are approximately the same. Though, there are some people who don't have CHD, have higher white blood cell count value compared to the upper fence value. In contrast, there are few people (CHD infected) whose count is greater than the upper fence value.
+	
+-------------------------------------
+uricacid_hist.png (In umol/L)
+
+This graph gives shows data distribution of uric acid levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, normalized histograms for both the groups are almost of similar shapes. Hence, nothing can be deducted about the patient's CHD condition given his uric acid levels.
+
+-------------------------------------
+uricacid_box.png
+
+This visual is a box-plot of uric acid levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. For first group 25th perc. is at 291.5, for second group this number is 261.5. Similarly, median values also differ by 35. Interquantile range is also higher for CHD patients compared to non-CHD patients. 
+
+-------------------------------------
+triglycerides_hist.png (In mmol/L)
+
+This graph gives shows data distribution of triglycerides levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, majority (approx. 80%) of people who had CHD (Blue colour) tended to have lower value of triglycerides (< 5). On the other hand, non infected participants showed almost uniform pattern till reaching 8, afterwards it smoothly declined.
+
+-------------------------------------
+triglycerides_box.png
+
+This visual is a box-plot of triglycerides levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. For second group, upper fence value is 3.83 (94.5 percentile) and max value is around nine times of it. 
+
+-------------------------------------
+total_cholesterol_hist.png (In mmol/L)
+
+This graph gives shows data distribution of total cholesterol levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, majority (approx. 80%) of people who had CHD (Blue colour) tended to have lower value of total cholesterol (< 7). On the other hand, non infected participants showed almost uniform pattern till reaching 9, afterwards it smoothly declined.
+
+-------------------------------------
+total_cholesterol_box.png
+
+This visual is a box-plot of total cholesterol levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. For infected people median value stands at 4.47 compared to 5.02 for non-infected participants. Apart from that, there is no major difference in terms of range and fence values.
+
+-------------------------------------
+segmented_neutrophils_hist.png (In percent)
+
+This graph gives shows data distribution of total segmented neutrophil levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, for first group, most of the probability mass (more than 70%) is attributed to values higher than 45 (segmented neutrophil level). For second group, the distribution is more or less uniform in 30-85 range. When moving away from this range, the probability value decreases consistently.
+
+
+-------------------------------------
+segmented_neutrophils_box.png 
+
+This visual is a box-plot of segmented neutrophils levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. For infected people median value stands at 61.3 compared to 58.7 for non-infected participants. Apart from that, there is a large gap between the minimum value and lower fence value for both groups, though lower fence value is ranked at 1 percentile (for both) which is negligible.
+
+-------------------------------------
+red_cell_distribution_width_hist.png (In percent)
+
+This graph gives shows data distribution of red cell distribution width, such is shown for people who had coronary heart disease and for others who didn't. In overview, both curves are bell shaped (gaussian). For first group, this curve is centered at around 15%, while the other is at around 19%. Also, variance is higher for second group compared to it's counterpart.
+
+-------------------------------------
+red_cell_distribution_width_box.png 
+
+This visual is a box-plot of red cell distribution width. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. For second group, maximum value is 2.5 times of upper fence value, there are approx. 5% of data points which are higher than upper fence value. Similarly, for first group, 6% of the total values are higher than upper fence value. Apart from that, quantile stats for both groups are almost same. 
+
+-------------------------------------
+red_blood_cells_hist.png (In million cells/uL)
+
+This graph gives shows data distribution of red blood cell count, such is shown for people who had coronary heart disease and for others who didn't. In overview, first graph is looks like a gaussian distribution centered at 4.6. And, for non infected participants, the distribution is more or less uniform in 3-6.2 range, which contains most of the probability mass.
+
+-------------------------------------
+red_boold_cells_box.png
+
+This visual is a box-plot of red blood cell count. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. All the aforementioned stats for both groups are nearly the same.
+
+-------------------------------------
+protein_hist.png (In g/L)
+
+This graph gives shows data distribution of protein levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, both exhibit uniform data distribution for in a specific range. For example, First graph is of uniform distribution at around 13.5% in 55-89 g/L range. On the other hand, second one is constant at 8.77% in 50-104 g/L range.
+
+-------------------------------------
+protein_box.png
+
+This visual is a box-plot of protein levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. All the aforementioned stats for both groups are nearly the same.
+
+-------------------------------------
+platelet_count_hist.png (In 1000 cells/uL)
+
+This graph gives shows data distribution of platelet count, such is shown for people who had coronary heart disease and for others who didn't. In overview, both graphs exhibit gaussian distribution. second graph has much more variance, which makes more spreaded and less peakier compared to first graph. Though, both are centered at nearly the same position, which is 250,000 cells/uL.
+
+-------------------------------------
+platelet_count_box.png
+
+This visual is a box-plot of platelet counts. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a noticable difference in quantile stats of two groups. For first group, values of first (25% percentile), second (median) and third quantile (75% percentile) are 178, 214 and 265 respectively. And for second group these values stand at 209, 247 and 291.
+
+-------------------------------------
+phosphorus_hist.png (In mmol/L)
+
+This graph gives shows data distribution of phosphorus levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first graph exhibit gaussian like distribution, which is centered at 1.2 mmol/L. On the contrary, second graph shows somewhat uniform distribution (deviating from around 11%) in 0.6-2.2 mmol/L range.
+
+-------------------------------------
+phosphorus_box.png
+
+This visual is a box-plot of phosphorus levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. All the aforementioned stats for both groups are nearly the same.
+
+-------------------------------------
+monocyte_hist.png (In percent)
+
+This graph gives shows data distribution of monocyte levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first graph exhibit gaussian like distribution, which is centered at 9%. On the contrary, second graph shows somewhat uniform distribution (deviating from around 9%) till reaching 20%. After which, it declined significantly.
+
+-------------------------------------
+monocyte_box.png
+
+This visual is a box-plot of monocyte levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. Median value for first group is 8.5% compared to 7.7% for the second group.
+
+-------------------------------------
+mean_platelet_vol_hist.png (In fL, stands for femtoLitre)
+
+This graph gives shows data distribution of mean platelet volume, such is shown for people who had coronary heart disease and for others who didn't. In overview, both graphs exhibit gaussian like distribution, both have mean of 9 fL. Though, variance of second group is noticeably higher than the first.
+
+-------------------------------------
+mean_platelet_vol_box.png
+
+This visual is a box-plot of mean platelet volume. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. All the aforementioned stats for both groups are nearly the same.
+
+-------------------------------------
+mean_cell_vol_hist.png (In fL, stands for femtoLitre)
+
+This graph gives shows data distribution of mean cell volume, such is shown for people who had coronary heart disease and for others who didn't. In overview, both graphs exhibit gaussian like distribution. First curve is centered at 92 fL and the other is centered at 82 fL. Also, first group has considerably lesser standard deviation compared to the second one.
+
+-------------------------------------
+mean_cell_vol_box.png
+
+This visual is a box-plot of mean cell volume. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. All the aforementioned stats for both groups are nearly the same.
+
+-------------------------------------
+mean_cell_hgb_conc_hist.png (In g/dL)
+
+This graph gives shows data distribution of mean cell hemoglobin concentration, such is shown for people who had coronary heart disease and for others who didn't. In overview, first graph exhibit gaussian like distribution, which is centered at 32 g/dL. On the contrary, second graph shows more or less uniform distribution (deviating from around 8%) in 18-38 g/dL, which contains the most of the probability mass.
+
+-------------------------------------
+mean_cell_hgb_conc_box.png
+
+This visual is a box-plot of mean cell hemoglobin concentration. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. For second group, 3.5% of all values are lesser than the lower fence value, this figure stands at 2.7% for first group. Other than that all stats for both groups are nearly the same.
+
+-------------------------------------
+mean_cell_hemoglobin_hist.png (In pg, stands for picogram)
+
+This graph gives shows data distribution of mean cell hemoglobin levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, for both groups, most of the probability mass is contained in 32.45-34.05 pg range. Inside this range, first group shows a large degree of variation compared to it's counterpart. 
+
+-------------------------------------
+mean_cell_hemoglobin_box.png
+
+This visual is a box-plot of mean cell hemoglobin levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. All the aforementioned stats for both groups are nearly the same.
+
+-------------------------------------
+lymphocyte_hist.png (In percent)
+
+This graph gives shows data distribution of lymphocyte levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first graph exhibit gaussian like distribution, which is centered at 30%. On the contrary, second graph shows more or less uniform distribution (deviating from around 8%) in 10-60 %, which contains the most of the probability mass, it declines consistently moving out this range.
+
+-------------------------------------
+lymphocyte_box.png
+
+This visual is a box-plot of mean cell lymphocyte levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a noticable difference in quantile stats of two groups. For first group, values of first (25% percentile), second (median) and third quantile (75% percentile) are 21, 26.4 and 32 respectively. And for second group these values stand at 24.6, 29.8 and 35.6.
+
+-------------------------------------
+ldh_hist.png (In U/L, stands for unit/litre)
+
+This graph gives shows data distribution of Lactate dehydrogenase levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, both graphs exhibit gaussian like distribution. First curve is centered at 150 U/L and the other is centered at 200 U/L. Also, second group has somewhat higher deviation in data compared to the first one.
+
+-------------------------------------
+ldh_box.png
+
+This visual is a box-plot of mean cell Lactate dehydrogenase levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a noticable difference in quantile stats of two groups. For first group, values of second (median) and third quantile (75% percentile) are 137 U/L and 159 U/L respectively. And for second group these values stand at 128 U/L and 146 U/L.
+
+-------------------------------------
+iron_hist.png (In mg)
+
+This graph gives shows data distribution of iron levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first graph exhibit gaussian like distribution, which is centered at 16 mg. On the contrary, second graph shows more or less uniform distribution (deviating from around 4.5%) in 2-38 mg, which contains the most of the probability mass, it declines moving out this range.
+
+-------------------------------------
+iron_box.png
+
+This visual is a box-plot of iron levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. All the aforementioned stats for both groups are nearly the same.
+
+-------------------------------------
+hemoglobin_hist.png (In g/dL)
+
+This graph gives shows data distribution of hemoglobin levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, for both groups, most of the probability mass is contained in 8-19 g/dL range, inside this range both are roughly consistent and have less variation.
+
+-------------------------------------
+hemoglobin_box.png
+
+This visual is a box-plot of hemoglobin levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. All the aforementioned stats for both groups are nearly the same.
+
+-------------------------------------
+hematocrit_hist.png (In percent)
+
+This graph gives shows data distribution of hematocrit levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, both graphs exhibit gaussian like distribution. First curve is centered at 41 % and the other is centered at 40 %. Also, second group has noticeably higher deviation in data compared to the first one.
+
+-------------------------------------
+hematocrit_box.png
+
+This visual is a box-plot of hematocrit levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. All the aforementioned stats for both groups are nearly the same.
+
+-------------------------------------
+hdl_hist.png (In mmol/L)
+
+This graph gives shows data distribution of direct hdl levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, both graphs exhibit gaussian like right skewed distribution. First curve is centered at 1.1 mmol/L and the other is centered at 1.6 mmol/L. Also, second group has noticeably higher deviation in data compared to the first one.
+
+-------------------------------------
+hdl_box.png
+
+This visual is a box-plot of direct hdl levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. For second group, difference between median and 25th percentile is 0.23. This figure is 0.18 for first group.
+
+-------------------------------------
+glycohemoglobin_hist.png (In percent)
+
+This graph gives shows data distribution of glycohemoglobin levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first graph exhibit gaussian like right skewed distribution, which is centered at 8%. On the contrary, second graph shows more or less uniform distribution (deviating from around 8%) in 4-14 %, which contains the most of the probability mass, it declines consistently as it deviates from this range.
+
+-------------------------------------
+glycohemoglobin_box.png
+
+This visual is a box-plot of glycohemoglobin levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a noticable difference in quantile stats of two groups. For first group, values of interquantile range and third quantile (75% percentile) are 1 % and 6.5 % respectively. And for second group these values stand at 0.6 % and 5.8 %. In addition, in both sets, around 10% of all data values are higher than upper fence value.
+
+-------------------------------------
+glucose_hist.png (In mmol/L)
+
+This graph gives shows data distribution of glucose levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first graph exhibit gaussian like right skewed distribution, which is centered at 5 mmol/L. On the contrary, second graph shows more or less uniform distribution (deviating from around 5%) in 3-17 mmol/L, which contains the most of the probability mass, it declines as it deviates from this range.
+
+-------------------------------------
+glucose_box.png
+
+This visual is a box-plot of glucose levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a noticable difference in quantile stats of two groups. For first group, values of interquantile range and third quantile (75% percentile) are 1.83 mmol/L and 6.83 mmol/L respectively. And for second group these values stand at 0.99 mmol/L and 5.66 mmol/L. In addition, in both sets, around 10% of all data values are higher than upper fence value.
+
+-------------------------------------
+ggt_hist.png (In U/L)
+
+This graph gives shows data distribution of Gamma glutamyl transferase levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, second graph exhibit gaussian like right skewed distribution, which is centered at 150 U/L. On the contrary, first graph contains approx. 84% of probability mass in 0-150 U/L range.
+
+-------------------------------------
+ggt_box.png
+
+This visual is a box-plot of Gamma glutamyl transferase levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a minor difference in quantile stats of two groups, all the percentile stats for first group are 2 U/L more than the second group. Also, in both sets, around 8% of all data values are higher than upper fence value.
+
+-------------------------------------
+eosinophils_hist.png (In percent)
+
+This graph gives shows data distribution of eosinophils levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, both graphs exhibit gaussian like right skewed distribution. First curve is centered at 5 % and the other is centered at 10 %. Also, second group has noticeably higher deviation in data compared to the first one.
+
+-------------------------------------
+eosinophils_box.png
+
+This visual is a box-plot of eosinophils levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a minor difference in quantile stats of two groups, all the percentile stats for first group are 0.4% more than the second group. Also, in both sets, around 5% of all data values are higher than upper fence value.
+
+-------------------------------------
+creatinine_hist.png (In umol/L)
+
+This graph gives shows data distribution of creatinine levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, both graphs exhibit gaussian like distribution. First curve is centered at 75 umol/L and the other is centered at 125 umol/L. Also, second group has noticeably higher variation in data compared to the first one.
+
+-------------------------------------
+creatinine_box.png
+
+This visual is a box-plot of creatinine levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a noticable difference in quantile stats of two groups. For first group, values of first quantile (25% percentile), second (median) and third quantile (75% percentile) are 74.26 umol/L, 88.4 umol/L and 107.85 umol/L respectively. And for second group these values stand at 61.88 umol/L, 72.49 umol/L and 88.4 umol/L.
+
+-------------------------------------
+cholesterol_hist.png (In mg/dL)
+
+This graph gives shows data distribution of cholesterol levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first graph exhibit gaussian like distribution, it is centered at 4.5 mg/dL. Also, second group shows more or less uniform distribution (deviating from around 7%) in 2.5-8.5 mg/dL, which contains the most of the probability mass, it declines as it deviates from this range.
+
+-------------------------------------
+cholesterol_box.png
+
+This visual is a box-plot of cholesterol levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a noticable difference in quantile stats of two groups. For first group, values of first quantile (25% percentile) and median (50% percentile) are 3.776 mg/dL and 4.42 mg/dL respectively. And for second group these values stand at 4.344 mg/dL and 5.017 mg/dL.
+
+
+-------------------------------------
+bilirubin_hist.png (In umol/L)
+
+-------------------------------------
+bilirubin_box.png
+
+-------------------------------------
+basophils_hist.png (In percent)
+
+This graph gives shows data distribution of basophils levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first group has more than 70% probability mass concentrated in 0% - 2% range. On the other hand, second group has roughly uniform distribution (at 14%) in 0% - 12.5 % range.
+
+-------------------------------------
+basophils_box.png
+
+-------------------------------------
+ast_hist.png (In IU/L)
+
+This graph gives shows data distribution of Aspartate aminotransferase levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first group has around 95% probability mass concentrated in 0-100 IU/L range. On the other hand, second group has gaussian like distribution, which is centered at around 100 IU/L.
+
+-------------------------------------
+ast_box.png
+
+-------------------------------------
+alt_hist.png (In IU/L)
+
+This graph gives shows data distribution of Alanine aminotransferase levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first group has around 93% probability mass concentrated in 0-100 IU/L range. On the other hand, second group has gaussian like distribution, which is centered at around 100 IU/L.
+
+-------------------------------------
+alt_box.png
+
+-------------------------------------
+alp_hist.png (In IU/L)
+
+This graph gives shows data distribution of Alkaline phosphatase levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, both groups exhibit gaussian like distribution. First curve is centered at 100 IU/L and the other is centered at 125 umol/L. Also, second group has noticeably higher variation in data compared to the first one.
+
+-------------------------------------
+alp_box.png
+
+
+-------------------------------------
+albumin_hist.png (In g/L)
+
+This graph gives shows data distribution of albumin levels, such is shown for people who had coronary heart disease and for others who didn't. In overview, first graph exhibit gaussian like distribution, it is centered at 42 g/L. Also, second group shows nearly uniform distribution (at 12.8%) in 20-54 g/L, which contains the most of the probability mass.
+
+-------------------------------------
+albumin_box.png
+
+This visual is a box-plot of albumin levels. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a minor difference in quantile stats of two groups. For first group, values of median (50% percentile) and third quantile (75% percentile) are 42 g/L and 44 g/L respectively. And for second group these values stand at 43 g/L and 45 g/L.
+
+-------------------------------------
+age_box.png (In years)
+
+This visual is a box-plot of age of survey participants. It displays the min, max, median, 25th percentile, 75th percentile, upper fence and lower fence value for two sets of people, people whom were infected with CHD and people who weren't. There is a clear difference in median value two groups. For first group median age value is 70 years and for second its 47 years. Similarly, interquantile range for second group is 29, which is approx. double the value of first group.
+
+-------------------------------------
+top_features.png
+
+This horizontal bar graph shows the importance scores (to predict CHD) of 30 different features in descending order. In overview, features like gender, age, diabetes, amount of physical activity, cholesterol, glycohemoglobin, stroke and triglycerides are very essential to perform predictive analytics regarding CHD.
+
+-------------------------------------
+features_corr.png
+
+This graph shows correlation matrix, which displays correlation value between a set of features. All categorical features (for example gender will be either male or female) show large value of correlation after one-hot encoding. Apart from that, all other features have less correlation with the target variable (CoronaryHeartDisease). 
+
+
+
+
+
+

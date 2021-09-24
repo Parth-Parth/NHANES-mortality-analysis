@@ -1,0 +1,26 @@
+-------------------------------------
+ALQ100_bar.png
+
+X-axis represents time and Y-axis represents proportions of two responses of the question "Had at least 12 alcohol drinks/1 yr?". In overview, percentages of people who had atleast 12 drinks/year increased gradually till 2009 (at 73%) from 1999. After which, it started to decline slowly and steadily till the end of 2015 (at 66.8%).
+
+
+-------------------------------------
+ALQ110_bar.png
+
+X-axis represents time and Y-axis represents proportions of two responses of the question "Had at least 12 alcohol drinks/lifetime?". In overview, proportions of "yes" responses to this question was roughly constant at 54 % from 1999-2005. After which it dipped to 48% in 2007 then it hiked to 52% in the next survey year, thereafter it remained steady at 43% till the end of 2015.
+
+
+-------------------------------------
+ALQ150_bar.png
+
+X-axis represents 2 different responses (yes or no) and there are different colored bars representing different years. Number of "yes" responses are roughly constant thoughout the given time interval (1999-2016). On the contrary, there is a lot of variation in "no" responses. In fact, there is a noticeable gap in number of "no" responses before the end of 2006 and after the end 2006.
+
+-------------------------------------
+ALQ120_hist.png (In g/L)
+
+This graph gives shows data distribution of number of days the alcohol drink was consumed over past year, such is shown for 9 different years. In overview, each survey year shows roughly a decaying pattern as the number of days increases. For range 0-19 cumulative probability mass is at peak, after that in next interval (20-39) it is nearly half of previous value, and so on. 
+
+-------------------------------------
+ALQ130_hist.png (In g/L)
+
+This graph gives shows data distribution of average of number of drinks/day ("In the past 12 months, on those days that participant drank alcoholic beverages, on the average, how many drinks did he/she have?"), such is shown for 9 different years. In overview, there is a lot of variation in data for all listed years, roughly a bell shaped curve (gaussian distribution) is observed for all plots, all of which are centered at 7.

@@ -1,0 +1,104 @@
+RIAGENDR	Gender	Gender of the participant.	Demographic Variables and Sample Weights (DEMO_H)	2013-2014 Demographics
+RIDAGEYR	Age in years at screening	Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.	Demographic Variables and Sample Weights (DEMO_H)	2013-2014 Demographics
+INDFMIN2	Annual family income	Total family income (reported as a range value in dollars)	Demographic Variables and Sample Weights (DEMO_H)	2013-2014 Demographics
+INDFMPIR	Ratio of family income to poverty	A ratio of family income to poverty guidelines.	Demographic Variables and Sample Weights (DEMO_H)	2013-2014 Demographics
+BPXPLS	60 sec. pulse (30 sec. pulse * 2)	60 sec. pulse (30 sec. pulse * 2)	Blood Pressure (BPX_H)	2013-2014 Examination
+BPXSY1	Systolic: Blood pres (1st rdg) mm Hg	Systolic: Blood pressure (first reading) mm Hg	Blood Pressure (BPX_H)	2013-2014 Examination
+BPXDI1	Diastolic: Blood pres (1st rdg) mm Hg	Diastolic: Blood pressure (first reading) mm Hg	Blood Pressure (BPX_H)	2013-2014 Examination
+BMXWT	Weight (kg)	Weight (kg)	Body Measures (BMX_H)	2013-2014 Examination
+BMIHT	Standing Height Comment	Standing Height Comment	Body Measures (BMX_H)	2013-2014 Examination
+BMXBMI	Body Mass Index (kg/m**2)	Body Mass Index (kg/m**2)	Body Measures (BMX_H)	2013-2014 Examination
+LBXWBCSI	White blood cell count (1000 cells/uL)	White blood cell count (1000 cells/uL)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXLYPCT	Lymphocyte percent (%)	Lymphocyte percent (%)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXMOPCT	Monocyte percent (%)	Monocyte percent (%)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXEOPCT	Eosinophils percent (%)	Eosinophils percent (%)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXBAPCT	Basophils percent (%)	Basophils percent (%)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXRBCSI	Red blood cell count (million cells/uL)	Red blood cell count (million cells/uL)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXHGB	Hemoglobin (g/dL)	Hemoglobin (g/dL)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXMCVSI	Mean cell volume (fL)	Mean cell volume (fL)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXMC	MCHC (g/dL)	Mean cell hemoglobin concentration (g/dL)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXMCHSI	Mean cell hemoglobin (pg)	Mean cell hemoglobin (pg)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXPLTSI	Platelet count (1000 cells/uL)	Platelet count (1000 cells/uL)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXMPSI	Mean platelet volume (fL)	Mean platelet volume (fL)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXNEPCT	Segmented neutrophils percent (%)	Segmented neutrophils percent (%)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXHCT	Hematocrit (%)	Hematocrit (%)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBXRDW	Red cell distribution width (%)	Red cell distribution width (%)	Complete Blood Count with 5-part Differential - Whole Blood (CBC_H)	2013-2014 Laboratory
+LBDSALSI	Albumin (g/L)	Albumin (g/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBXSAPSI	Alkaline phosphatase (IU/L)	Alkaline phosphatase (IU/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBXSASSI	Aspartate aminotransferase AST (IU/L)	Aspartate aminotransferase AST (IU/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBXSATSI	Alanine aminotransferase ALT (IU/L)	Alanine aminotransferase ALT (IU/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBXSCH	Cholesterol (mg/dL)	Cholesterol (mg/dL)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBDSCRSI	Creatinine (umol/L)	Creatinine (umol/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBDSGLSI	Glucose, refrigerated serum (mmol/L)	Glucose, refrigerated serum (mmol/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBXSGTSI	Gamma glutamyl transferase (U/L)	Gamma glutamyl transferase (U/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+DR1TIRON	Iron (mg)	Iron (mg)	Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_H)	2013-2014 Dietary
+LBXSLDSI	Lactate dehydrogenase (U/L)	Lactate dehydrogenase (U/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBDSPHSI	Phosphorus (mmol/L)	Phosphorus (mmol/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBDSTBSI	Total bilirubin (umol/L)	Total bilirubin (umol/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBDSTPSI	Total protein (g/L)	Total protein (g/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBDSUASI	Uric acid (umol/L)	Uric acid (umol/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBDSTRSI	Triglycerides, refrigerated (mmol/L)	Triglycerides, refrigerated (mmol/L)	Standard Biochemistry Profile (BIOPRO_H)	2013-2014 Laboratory
+LBDTCSI	Total Cholesterol( mmol/L)	Total Cholesterol( mmol/L)	Cholesterol - Total (TCHOL_H)	2013-2014 Laboratory
+LBDHDDSI	Direct HDL-Cholesterol (mmol/L)	Direct HDL-Cholesterol (mmol/L)	Cholesterol - HDL (HDL_H)	2013-2014 Laboratory
+LBXGH	Glycohemoglobin (%)	Glycohemoglobin (%)	Glycohemoglobin (GHB_H)	2013-2014 Laboratory
+PAQ605	Vigorous work activity	Physical Activity (PAQ_H)	2013-2014 Questionnaire
+PAQ620	Moderate work activity	Physical Activity (PAQ_H)	2013-2014 Questionnaire 
+HIQ011	Covered by health insurance		Health Insurance (HIQ_H)	2013-2014 Questionnaire
+DIQ010	Doctor told you have diabetes 	Diabetes (DIQ_H)	2013-2014 Questionnaire
+MCQ300c	Close relative had diabetes?	Including living and deceased, were any of {SP's/your} close biological that is, blood relatives including father, mother, sisters or brothers, ever told by a health professional that they had diabetes?	Medical Conditions (MCQ_H)	2013-2014 Questionnaire
+MCQ160f	Ever told you had a stroke	Has a doctor or other health professional ever told {you/SP} that {you/s/he} . . .had a stroke?	Medical Conditions (MCQ_H)	2013-2014 Questionnaire
+MCQ160c	Ever told you had coronary heart disease	Has a doctor or other health professional ever told {you/SP} that {you/s/he} . . .had coronary (kor-o-nare-ee) heart disease?	Medical Conditions (MCQ_H)	2013-2014 Questionnaire
+
+
+
+
+Gender                         0
+Age                            0
+Annual-Family-Income           0
+Ratio-Family-Income-Poverty    0
+X60-sec-pulse                  0
+Systolic                       0
+Diastolic                      0
+Weight                         0
+Height                         0
+Body-Mass-Index                0
+White-Blood-Cells              0
+Lymphocyte                     0
+Monocyte                       0
+Eosinophils                    0
+Basophils                      0
+Red-Blood-Cells                0
+Hemoglobin                     0
+Mean-Cell-Vol                  0
+Mean-Cell-Hgb-Conc.            0
+Mean-cell-Hemoglobin           0
+Platelet-count                 0
+Mean-Platelet-Vol              0
+Segmented-Neutrophils          0
+Hematocrit                     0
+Red-Cell-Distribution-Width    0
+Albumin                        0
+ALP                            0
+AST                            0
+ALT                            0
+Cholesterol                    0
+Creatinine                     0
+Glucose                        0
+GGT                            0
+Iron                           0
+LDH                            0
+Phosphorus                     0
+Bilirubin                      0
+Protein                        0
+Uric.Acid                      0
+Triglycerides                  0
+Total-Cholesterol              0
+HDL                            0
+Glycohemoglobin                0
+Vigorous-work                  0
+Moderate-work                  0
+Health-Insurance               0
+Diabetes                       0
+Blood-Rel-Diabetes             0
+Blood-Rel-Stroke               0
+CoronaryHeartDisease           0
